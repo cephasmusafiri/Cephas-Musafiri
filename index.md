@@ -7,24 +7,24 @@ title: Home
 
 I am a Research Assistant working on public economics, tax revenue mobilization, and state capacity in low-capacity regimes. My empirical toolkit centers on applied microeconometrics, large-scale administrative tax panel data, and causal inference methods (RDD, DiD, IV).
 
-[Download CV (PDF)](#) \| [Email](mailto:your.email@domain.com) \| [GitHub](https://github.com/yourgithubhandle) \| [LinkedIn](https://linkedin.com/in/yourlinkedin)
+[Email](mailto:your.email@domain.com) \| [GitHub](https://github.com/cephasmusafiri)
 
 ---
 
 ## Research Interests
-* **Public & Development Economics:** Tax administrative reform, state capacity, informal leakage, and bureaucratic agency.
-* **Spatial & Urban Economics:** Fiscal transfers, human capital flows, and municipal capacity in developing economies.
+* **Public and Development Economics:** Tax administrative reform, state capacity, informal leakage, and bureaucratic agency.
+* **Spatial and Urban Economics:** Fiscal transfers, human capital flows, and municipal capacity in developing economies.
 * **Empirical Methods:** Causal inference, panel data econometrics, and structural administrative data construction.
 
 ---
 
-## Current Research & Projects
+## Current Research and Projects
 
-### Working Projects & Research
-* **Tax Administrative Interventions & Agency Traps in Low-Capacity States**  
+### Working Projects
+* **Tax Administrative Interventions and Agency Traps in Low-Capacity States**  
   Evaluating how third-party digital payment platforms, automated tariff classifications, and transparent fee schedules constrain discretionary enforcement by field agents and reduce fiscal leakages.
 
-* **Spatial Returns on Public Expenditure & Local State Capacity**  
+* **Spatial Returns on Public Expenditure and Local State Capacity**  
   Investigating how national decentralised fiscal transfers interact with municipal administrative capacity and spatial brain drain across regional economic hubs.
 
 * **Value-Added Tax (VAT) Refund Dynamics**  
@@ -43,8 +43,8 @@ I am a Research Assistant working on public economics, tax revenue mobilization,
 
 ---
 
-## Technical & Data Skills
+## Technical and Data Skills
 
-* **Programming & Econometric Software:** Stata, R, Python, Julia, SQL, LaTeX
-* **Methodologies:** Event-Study Models, Regression Discontinuity Design (RDD), Difference-in-Differences (DiD), Instrumental Variables (IV), Panel Data Wrangling
-* **Data Lab Exposure:** High-frequency tax administrative micro-datasets, municipal financial records
+* **Programming:** Stata, R, Python, Julia, SQL, LaTeX
+* **Methodologies:** Event-Study Models, Regression Discontinuity Design (RDD), Difference-in-Differences (DiD), Instrumental Variables (IV), Panel Data
+* **Data Exposure:** High-frequency tax administrative micro-datasets, municipal financial records
