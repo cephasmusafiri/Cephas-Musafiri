@@ -1,16 +1,6 @@
 title: Cephas Musafiri
-email: your.email@domain.com
-description: >-
-  Research Assistant specializing in Public Economics, State Capacity, 
-  and Applied Microeconometrics.
+email: cephasmusafiri@gmail.com
+description: Research Assistant specializing in Public Economics, State Capacity, and Applied Microeconometrics.
 theme: minima
 plugins:
   - jekyll-feed
-
-# Navigation links
-header_pages:
-  - index.md
-
-# Links to display in footer/profile
-github_username:  yourgithubhandle
-linkedin_username: yourlinkedin
